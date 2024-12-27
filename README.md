@@ -32,6 +32,12 @@ Coords:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/partumdesign) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/daryl_dixon) 
 
 ---
+DESPERADO ROLEPLAY [REDM]
+![tvns87ls](https://github.com/user-attachments/assets/c3276d4a-7460-46c4-983b-45ec575fb58d)
+##  Discord: 
+https://discord.gg/ZBrv26mBJV
+##  Server will open / January 2025
+---
 ![saloon_v1_07](https://github.com/user-attachments/assets/8d78ce38-aa54-4eea-bc27-f694b3c78b3a)
 ![saloon_v1_06](https://github.com/user-attachments/assets/439ddf4e-899c-4bb4-89af-af0f393a9eec)
 ![saloon_v1_05](https://github.com/user-attachments/assets/7741a078-950e-452d-a6c5-7a0d2a979161)
