@@ -12,6 +12,10 @@ V1 Saloon Strawberry!
 More versions will be made available for free on Ko-fi later!
 Weitere Versionen werden später kostenlos auf Ko-fi bereitgestellt!
 
+
+## Discord
+https://mee6.xyz/de/i/lYl6pLgxWa 
+
 Please read the Readme!
 ---
 [![](https://visitcount.itsvg.in/api?id=dixieland-gaming&icon=2&color=4)](https://visitcount.itsvg.in)
