@@ -38,6 +38,8 @@ Coords:
 https://discord.gg/ZBrv26mBJV
 ##  Server will open / January 2025
 ---
+## Preview images Saloon Strawberry
+
 ![saloon_v1_07](https://github.com/user-attachments/assets/8d78ce38-aa54-4eea-bc27-f694b3c78b3a)
 ![saloon_v1_06](https://github.com/user-attachments/assets/439ddf4e-899c-4bb4-89af-af0f393a9eec)
 ![saloon_v1_05](https://github.com/user-attachments/assets/7741a078-950e-452d-a6c5-7a0d2a979161)
