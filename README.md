@@ -32,7 +32,7 @@ Coords:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/partumdesign) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/daryl_dixon) 
 
 ---
-DESPERADO ROLEPLAY [REDM]
+# DESPERADO ROLEPLAY [REDM]
 ![tvns87ls](https://github.com/user-attachments/assets/c3276d4a-7460-46c4-983b-45ec575fb58d)
 ##  Discord: 
 https://discord.gg/ZBrv26mBJV
