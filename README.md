@@ -19,6 +19,22 @@ https://ko-fi.com/s/68a4fac893
 https://mee6.xyz/de/i/lYl6pLgxWa 
 
 Please read the Readme!
+
+Coords:
+   { 
+        name = 'Enter Saloon', 
+        promptname = "Enter Saloon", 
+        coords = vector3(-1778.67, -375.6101, 159.96002 -1),
+        destination = vector4(-1777.476, -374.1882, 159.9808, 310.86383), 
+        showmarker = false
+    },
+    { 
+        name = 'Leave Saloon', 
+        promptname = "Leave Saloon",
+        coords = vector3(-1777.476, -374.1882, 159.9808 -1),
+        destination = vector4(-1778.67, -375.6101, 159.96002, 138.61891),
+        showmarker = false
+    } 
 ---
 [![](https://visitcount.itsvg.in/api?id=dixieland-gaming&icon=2&color=4)](https://visitcount.itsvg.in)
 
