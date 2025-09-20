@@ -12,6 +12,9 @@ V1 Saloon Strawberry!
 - More versions will be made available for free on Ko-fi later!
 - Weitere Versionen werden später kostenlos auf Ko-fi bereitgestellt!
 
+## DOWNLOAD TEBEX [FREE]
+https://dixieland.tebex.io/category/redm-rsgcore-resou
+
 ## Ko-fi
 https://ko-fi.com/s/68a4fac893
 
